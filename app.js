@@ -3,5 +3,5 @@
 // The load event is fired when the whole page has loaded, including all dependent resources such as stylesheets and images.
 
 // Get the DOM element
-const btn = document.querySelector(".switch-btn");
-const video = document.querySelector(".video-container");
+const btn = document.querySelector('.switch-btn');
+const video = document.querySelector('.video-container');
